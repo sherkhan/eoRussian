@@ -1,5 +1,5 @@
-$lang_title_drop = "English";
-$welcome_page_title = "Welcome";
+$lang_title_drop = "中文简体";
+$welcome_page_title = "欢迎";
 $mtc_page_symbol = "MTC";
 $marinecoin_page = "Marinecoin";
 $buy_page = "Buy";
